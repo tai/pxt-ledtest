@@ -1,0 +1,42 @@
+{
+    "repo": "tai/pxt-ledtest#master",
+    "commit": {
+        "sha": "4091ce894a505580d1df603305ff60c5e85f1595",
+        "node_id": "MDY6Q29tbWl0MjU4MTI4NzUzOjQwOTFjZTg5NGE1MDU1ODBkMWRmNjAzMzA1ZmY2MGM1ZTg1ZjE1OTU=",
+        "url": "https://api.github.com/repos/tai/pxt-ledtest/git/commits/4091ce894a505580d1df603305ff60c5e85f1595",
+        "html_url": "https://github.com/tai/pxt-ledtest/commit/4091ce894a505580d1df603305ff60c5e85f1595",
+        "author": {
+            "name": "Taisuke Yamada",
+            "email": "tai@users.noreply.github.com",
+            "date": "2020-04-23T07:35:50Z"
+        },
+        "committer": {
+            "name": "Taisuke Yamada",
+            "email": "tai@users.noreply.github.com",
+            "date": "2020-04-23T07:35:50Z"
+        },
+        "tree": {
+            "sha": "d47277f449eaa225f5f8dbcd1836d301dad42b1e",
+            "url": "https://api.github.com/repos/tai/pxt-ledtest/git/trees/d47277f449eaa225f5f8dbcd1836d301dad42b1e",
+            "tree": [
+                {
+                    "path": ".gitignore",
+                    "mode": "100644",
+                    "type": "blob",
+                    "sha": "4feabaa24681ac19e82bd22111d0b0de2df27ee6",
+                    "size": 10,
+                    "url": "https://api.github.com/repos/tai/pxt-ledtest/git/blobs/4feabaa24681ac19e82bd22111d0b0de2df27ee6"
+                }
+            ],
+            "truncated": false
+        },
+        "message": "Initialize empty repo",
+        "parents": [],
+        "verification": {
+            "verified": false,
+            "reason": "unsigned",
+            "signature": null,
+            "payload": null
+        }
+    }
+}

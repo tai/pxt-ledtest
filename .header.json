@@ -1,0 +1,17 @@
+{
+    "name": "pxt-ledtest",
+    "githubId": "tai/pxt-ledtest#master",
+    "pubId": "",
+    "pubCurrent": false,
+    "meta": {},
+    "editor": "tsprj",
+    "target": "microbit",
+    "targetVersion": "2.0.3",
+    "id": "2e10655b-818e-4387-1865-072adebaca82",
+    "recentUse": 1587627821,
+    "modificationTime": 1587627586,
+    "path": "taipxt-ledtest",
+    "blobCurrent": false,
+    "saveId": null,
+    "githubCurrent": false
+}
